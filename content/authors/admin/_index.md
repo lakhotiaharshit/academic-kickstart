@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Harshit Lakhotia
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,31 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Software Developer 
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Microsoft
+  url: "https://www.microsoft.com/en-us/quantum"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am trained as an experimental physicist. Now I enjoy conding for Quantum computing programme for Micosoft. 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Quantum Computing <em class="fas fa-microscope fa-fw"> </em>
+- Classical Music <em class="fas fa-music fa-fw"> </em>
+- Risk Management and Modelling <em class="fas fa-coins fa-fw"> </em>
+- Cooking <em class="fas fa-bread-slice fa-fw"> </em>
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Physics
+    institution: Max Planck Institute of Quantum Optics 
+    year: 2019
+  - course: Bachelor and Master of Science
+    institution: Indian Institute of Science Education and Research Kolkata 
+    year: 2014
+ 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,13 +46,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/Harsit_Lakhotia
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.in/citations?user=QoRBCJQAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/lakhotiaharshit
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +69,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Namaste <em class="fas fa-praying-hands fa-fw"> </em>, Welcome to my home. I am Harshit Lakhotia. I come from India and I am currently living in Amsterdam. I am a python enthusiast working at Microsoft. I did my Phd in Physics from Max Planck Institute of Quantum Optics in field of ultrafast optics and Master of Science from Indian Institute of Science Education and Research, Kolkata. 
