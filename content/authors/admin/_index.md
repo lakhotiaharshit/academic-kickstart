@@ -18,7 +18,7 @@ organizations:
   url: "https://www.microsoft.com/en-us/quantum"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am trained as an experimental physicist. Now I enjoy conding for Quantum computing programme for Micosoft. 
+bio: I am trained as an experimental physicist. Now I enjoy coding for Quantum computing programme for Microsoft. 
 
 interests:
 - Quantum Computing <em class="fas fa-atom fa-spin"> </em>
