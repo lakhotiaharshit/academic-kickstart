@@ -68,5 +68,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-Namaste <em class="fas fa-praying-hands fa-fw"> </em>, Welcome to my home. I am Harshit Lakhotia. I come from India and I am currently living in Amsterdam. I am a python enthusiast working at Microsoft. I did my Phd in Physics from Max Planck Institute of Quantum Optics in field of ultrafast optics and Master of Science from Indian Institute of Science Education and Research, Kolkata. 
+Namaste! <em class="fas fa-praying-hands fa-fw"> </em> I was born and raised in India and I currently live in Amsterdam. Since childhood I dreamt of becoming scientist. Hence I went on to do my Ph.d. in Physics from Max Planck Institute of Quantum Optics in field of ultrafast optics and Master of Science from Indian Institute of Science Education and Research, Kolkata. I am a python enthusiast working at Microsoft.
