@@ -21,7 +21,7 @@ organizations:
 bio: I am trained as an experimental physicist. Now I enjoy conding for Quantum computing programme for Micosoft. 
 
 interests:
-- Quantum Computing <em class="fas fa-microscope fa-fw"> </em>
+- Quantum Computing <em class="fas fa-atom fa-spin"> </em>
 - Classical Music <em class="fas fa-music fa-fw"> </em>
 - Risk Management and Modelling <em class="fas fa-coins fa-fw"> </em>
 - Cooking <em class="fas fa-bread-slice fa-fw"> </em>
