@@ -8,9 +8,9 @@ image:
   caption: 'Image credit: Photo by Ian Kim on Unsplash(https://unsplash.com/photos/gKs6zNil_Ro)'
 ---
 
-This is a list of rejections and setbacks. I came across this idea in the [nytimes](https://www.nytimes.com/2019/02/03/smarter-living/failure-resume.html) article. The idea behind doing this is that you learn much more from your failures than success. 
+This is a list of rejections and setbacks. I came across this idea in the [nytimes](https://www.nytimes.com/2019/02/03/smarter-living/failure-resume.html) article. The rationale behind doing this is that you learn much more from your failures than success. 
 
-Here I have listed chronologically major success in my life and under each success you will find a set of failures. At the end I have placed failures which did not lead to any success. Also those failures are not places in any chronological order.
+Here I have chronologically listed major success in my life and under each success you will find a set of failures. At the end I have placed failures which did not lead to any success. Also those failures are not places in any chronological order.
 
 #### 2019: Before Microsoft
 I applied to many industries finally getting offer to work for Quantum Research at Microsoft.
