@@ -68,4 +68,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Namaste! <em class="fas fa-praying-hands fa-fw"> </em> I was born and raised in India and I currently live in Amsterdam. Since childhood I dreamt of becoming scientist. Hence I went on to do my Ph.d. in Physics from Max Planck Institute of Quantum Optics in field of ultrafast optics and Master of Science from Indian Institute of Science Education and Research, Kolkata. I am a python enthusiast working at Microsoft.
+Namaste! <em class="fas fa-praying-hands fa-fw"> </em> I am Harshit, it is a Hindi word which means Happiness. That picture on the right/top is me happily chasing my wife in Barcelona. I was born and raised in India and I currently live in Amsterdam. Since childhood I dreamt of becoming scientist. Hence I went on to do my Ph.d. in Physics from [MPQ](www.mpq.mpg.de) in the field of ultrafast optics and BS-MS from [IISER, Kolkata](www.iiserkol.ac.in). I am a python enthusiast working at Microsoft.
