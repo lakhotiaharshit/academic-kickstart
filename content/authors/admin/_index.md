@@ -10,20 +10,21 @@ authors:
 superuser: true
 
 # Role/position
-role: Software Developer 
+role: Lead Compliance Model Validator 
 
 # Organizations/Affiliations
 organizations:
-- name: Microsoft
-  url: "https://www.microsoft.com/en-us/quantum"
+- name: Rabobank
+  url: "https://rabobank.jobs/en/expertise/financial-economic-crime/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am trained as an experimental physicist. Now I enjoy coding for Quantum computing programme for Microsoft. 
+bio: I am trained as an experimental physicist. Now, I enjoy leading the validation of models designed to prevent financial economic crimes at Rabobank in the Netherlands.
 
 interests:
+- Prevention of Financial Ecomonic Crime <em class="fas fa-handcuffs fa-fw"> </em>
+- Risk Management and Modelling <em class="fas fa-coins fa-fw"> </em>
 - Quantum Computing <em class="fas fa-atom fa-spin"> </em>
 - Classical Music <em class="fas fa-music fa-fw"> </em>
-- Risk Management and Modelling <em class="fas fa-coins fa-fw"> </em>
 - Cooking <em class="fas fa-bread-slice fa-fw"> </em>
 
 education:
@@ -68,4 +69,10 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Namaste! <em class="fas fa-praying-hands fa-fw"> </em> I am Harshit, it is a Hindi word which means Happiness. That picture on the right/top is me happily chasing my wife in Barcelona. I was born and raised in India and I currently live in Amsterdam. Since childhood I dreamt of becoming scientist. Hence I went on to do my Ph.d. in Physics from [MPQ](www.mpq.mpg.de) in the field of ultrafast optics and BS-MS from [IISER, Kolkata](www.iiserkol.ac.in). I am a python enthusiast working at Microsoft.
+Namaste! <em class="fas fa-praying-hands fa-fw"> </em> I am Harshit, iwhich isn't just a name but a promise of 'Happiness' in Hindi. See that vibrant snapshot on the right/top? That's me, caught in a merry chase behind my wife on the cobbled streets of Barcelona. While my roots reach deep into the Indian soil, I've found a new home amidst Amsterdam's serene canals.
+
+Since childhood I dreamt of becoming scientist.  This led me on a journey to dive deep into the world of Physics. I earned my Ph.D. from [MPQ](www.mpq.mpg.de), mastering the attosend ultfrast optics, and my foundational BS-MS from [IISER, Kolkata](www.iiserkol.ac.in).
+
+My professional journey took a detour into the tech world, where I coded as a software developer at [Microsoft](https://azure.microsoft.com/en-gb/solutions/quantum-computing/technology/). Later, the allure of finance led me to model validation, first at [ABN AMRO](https://www.abnamro.com/) and now, I work as the Lead Validator at [Rabobank](https://www.rabobank.com/), ensuring that our models stand robust in preventing society against finacial economic crime.
+
+
