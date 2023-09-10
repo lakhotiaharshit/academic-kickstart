@@ -31,10 +31,10 @@ education:
   courses:
   - course: PhD in Physics
     institution: Max Planck Institute of Quantum Optics 
-    year: 2019
+
   - course: Bachelor and Master of Science
     institution: Indian Institute of Science Education and Research Kolkata 
-    year: 2014
+
  
 
 # Social/Academic Networking
@@ -69,8 +69,8 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Namaste! <em class="fas fa-praying-hands fa-fw"> </em> I am Harshit Lakhotia, which isn't just a name but a promise of 'Happiness' in Hindi. See that vibrant snapshot on the top-right. That's me, caught in a merry chase behind my wife on the cobbled streets of Barcelona. While my roots reach deep into the Indian soil, I've found a new home amidst Amsterdam's serene canals.
+Namaste! <em class="fas fa-praying-hands fa-fw"> </em> I am Harshit Lakhotia, which isn't just a name but a promise of 'Happiness' in Hindi. See that snapshot on the left. That's me, caught in a merry chase behind my wife on the cobbled streets of Barcelona. While my roots reach deep into the Indian soil, I've found a new home amidst Amsterdam's serene canals.
 
-Since childhood I dreamt of becoming scientist.  This led me on a journey to dive deep into the world of Physics. I earned my Ph.D. from [MPQ](www.mpq.mpg.de), mastering the attosend ultfrast optics, and my foundational BS-MS from [IISER, Kolkata](www.iiserkol.ac.in).
+Since childhood I dreamt of becoming scientist.  This led me on a journey to dive deep into the world of Physics. I earned my Ph.D. from [MPQ](www.mpq.mpg.de), mastering the atto-second ultrafast optics, and my Bachelors and Masters of Science from [IISER, Kolkata](www.iiserkol.ac.in).
 
 My professional journey took a detour into the tech world, where I coded as a software developer at [Microsoft](https://azure.microsoft.com/en-gb/solutions/quantum-computing/technology/). Later, the allure of finance led me to model validation, first at [ABN AMRO](https://www.abnamro.com/) and now, as the Lead Validator at [Rabobank](https://www.rabobank.com/), ensuring that our models stand robust in preventing society against financial economic crime.
