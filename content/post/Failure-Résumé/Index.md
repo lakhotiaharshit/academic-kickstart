@@ -49,8 +49,5 @@ This is a list of rejections and setbacks. I came across this idea in the [nytim
 ### **Before Embracing IISER, Kol - 2009**
 
 *My aspirations always leaned towards pure sciences, but the universe had its unique way of teaching resilience.*
-
-- **Initial Stint at NIT Srinagar, Kashmir**  
-  **Lesson**: Setbacks can be setups for greater achievements.  
-  After an initial stumble at the entrance examination in 2008, I had a brief foray into engineering. But my passion for science drew me back, and I successfully secured a spot at IISER Kolkata in 2009, one of the premier science institutes in India.
-
+ 
+After an initial stumble at the entrance examination in 2008, I had a brief foray into engineering. But my passion for science drew me back, and I successfully secured a spot at IISER Kolkata in 2009, one of the premier science institutes in India.
