@@ -10,30 +10,47 @@ image:
 
 This is a list of rejections and setbacks. I came across this idea in the [nytimes](https://www.nytimes.com/2019/02/03/smarter-living/failure-resume.html) article. The rationale behind doing this is that you learn much more from your failures than success. 
 
-Here I have chronologically listed major success in my life and under each success you will find a set of failures. At the end I have placed failures which did not lead to any success. Also those failures are not places in any chronological order.
+### **My Journey Before Microsoft - 2019**
 
-#### 2019: Before Microsoft
-I applied to many industries finally getting offer to work for Quantum Research at Microsoft.
+*While the end destination was a promising role at Quantum Research at Microsoft, the journey was riddled with both trials and insights.*
 
-- Got rejection from Flow traders for quantitative researcher position. In the final round of interview I was unable to solve a problem on multivariate regression. This was great opportunity missed. I made sure to revise the basics of the field I applied in for interview since this application.
+- **Flow Traders Interview for Quantitative Researcher Role**  
+  **Lesson**: Never underestimate the importance of fundamentals.  
+  My miss on a multivariate regression problem during the interview underscored the value of revisiting basics before interviews. It fortified my preparation for subsequent roles and highlighted areas for growth.
 
-- Got rejected for Shell graduate program. Do not know why. Did not receive any feedback on my application. 
+- **Shell Graduate Program Application**  
+  **Lesson**: Embrace uncertainty and always seek feedback.  
+  Despite not receiving specific feedback, I was reminded of the unpredictable nature of job applications and the importance of proactive communication.
 
-#### 2019: During PhD Physics, summa cum laude, [LMU](https://www.en.uni-muenchen.de/index.html)
+### **PhD Odyssey at LMU - 2014 to 2019**
 
-I started my Ph.D in July 10th, 2014 which ended on April 4th, 2019. During these 5 years I worked on developing a new technique for [imaging valence electron of crystalline solids](https://edoc.ub.uni-muenchen.de/24081/1/Lakhotia_Harshit.pdf) such as $MgF_2$ and $CaF_2$. The time I was submitted my thesis I had no first author paper. Only research work I had published was by helping a former Phd student. I had not written a single paper on the topic I was working on for 5 year. I felt like my PhD was great failure because I was submitting the thesis without a single paper. In the final year of my PhD I was seriously depressed. I used to wake up midnight and start thinking about the bleak future I have. Finally all ended well. The 5 years of work is finally published in Nature in 2020. 
+*My half-decade endeavor at LMU was not just about research but also a deep dive into personal growth and perseverance.*
 
-#### 2014: Before getting into [MPQ](https://www.mpq.mpg.de/)
+- **Developing Imaging Technique for Crystalline Solids**  
+  **Lesson**: Success isn't instantaneous; patience pays.  
+  The initial years were taxing, especially without any first-author paper to my name. It taught me resilience, persistence, and the ability to find light even in seemingly bleak situations. My dedication finally bore fruit with a publication in Nature in 2020.
 
-- Rejected from optics program of 8 US universities which included University of Colorado Boulder, University of Florida, Rochester University (accepted fro Master's program though), Purdue University, Rice university, UIUC
-- Accepted in EPFL and Swiss Govt. Excellence Fellowship. But this result came much after I had accepted the offer from MPQ
-- At some point I was thinking of accepting the offer from Georgia State University because that was the first offer I received after a lot of rejections. It was right that I waited a bit and finally got into much better research institute.
+### **Before My Days at MPQ - 2014**
 
-#### 2009: Before getting into [IISER, Kol](www.iiserkol.ac.in)
-IISER Kolkata, is one of the best schools for studying science in India.  However, before getting into this one. I studied engineering for a year at NIT Srinagar, Kashmir, India because I failed the entrance examination in 2008. I reappeared in 2009 and managed to pass by a very thin margin.
+*With dreams of delving into optics, the universe had its own plans to test and guide me.*
 
+- **US University Applications**  
+  **Lesson**: Rejections aren’t reflections of capability.  
+  Facing rejections from several prestigious institutions, including the University of Colorado Boulder and UIUC, was tough. But it instilled a belief to keep pursuing what I wanted and not to settle. 
 
-#### Extracurricular failures
-- Failed to master Harmonica because can never find enough time ot practise. Still not confident to play it in any gathering. 
-- Almost 30 years of age but still planing on taking driving lessons.
-- Failed to learn German. Currently at A2 level.
+- **Swiss Excellence & EPFL Acceptance**  
+  **Lesson**: Timing is everything.  
+  Although the joy of the Swiss Government Excellence Fellowship came a bit late, it reinforced the idea of patience and making informed decisions, especially since I already committed to MPQ.
+
+- **Georgia State University Offer**  
+  **Lesson**: Sometimes waiting offers a better perspective.  
+  Almost settling for Georgia State University, I realized the importance of patience and the belief in better opportunities on the horizon.
+
+### **Before Embracing IISER, Kol - 2009**
+
+*My aspirations always leaned towards pure sciences, but the universe had its unique way of teaching resilience.*
+
+- **Initial Stint at NIT Srinagar, Kashmir**  
+  **Lesson**: Setbacks can be setups for greater achievements.  
+  After an initial stumble at the entrance examination in 2008, I had a brief foray into engineering. But my passion for science drew me back, and I successfully secured a spot at IISER Kolkata in 2009, one of the premier science institutes in India.
+
